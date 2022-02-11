@@ -8,5 +8,15 @@
     "id": 2,
     "artistName": "Regular Expressionists",
     "albumName": "Top, Right, Bottom, Left"
+  },
+  {
+    "id": 3,
+    "artistName": "Kaleo",
+    "albumName": "Surface Sounds"
+  },
+  {
+    "id": 4,
+    "artistName": "Mumford and Sons",
+    "albumName": "Delta"
   }
 ]
